@@ -13,4 +13,5 @@ To-Do List simples construído em Kotlin para análise comparativa de abordagens
 
 ## 📲 Telas
 
-![image3](https://github.com/user-attachments/assets/7fa484f5-ceba-4250-91d3-853eebb77eb2)
+![image3](https://github.com/user-attachments/assets/8b43f718-cb73-4a73-9a3e-622f3d0f3fb9)
+
