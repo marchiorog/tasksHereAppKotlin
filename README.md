@@ -7,7 +7,8 @@ To-Do List simples construído em Kotlin para análise comparativa de abordagens
 ## 🚀 Tecnologias
 
 - [Kotlin](https://kotlinlang.org/)
-- [Firebase](https://firebase.google.com/)
+- [Firebase](https://firebase.google.com/) - v32.2.2  
+- [Android Studio](https://developer.android.com/studio) - Giraffe | 2022.3.1 ou superior
 
 ---
 
