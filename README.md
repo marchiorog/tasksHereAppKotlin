@@ -1,4 +1,4 @@
-# 📱 TasksHere - To-Do list 
+# 📱 TasksHere - To-Do list - Kotlin
 
 To-Do List simples construído em Kotlin para análise comparativa de abordagens de desenvolvimento Mobile | PFC I - Engenharia de Computação.
 
